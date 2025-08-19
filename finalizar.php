@@ -6,7 +6,7 @@
     }
 
     $token = "seu token do Mercado Pago"; // Seu access token
-    // onde conseguir o token: https://www.mercadopago.com.br/developers/panel/app/4614854370059387/credentials/production
+    // onde conseguir o token: https://www.mercadopago.com.br/developers/panel/app
 
     $nome = $_POST["nome"] ?? NULL;
     $email = $_POST["email"] ?? NULL;
